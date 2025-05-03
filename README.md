@@ -1,12 +1,18 @@
 # CLI based ToDo Program 
 
 A simple ToDo program which allows user to perform specific operations related to tasks i.e:
-    - add
-    - update
-    - delete
-    - mark as done
-    - mark as undone
-    - show all tasks
+
+- **Add**
+- **Update**
+- **Delete**
+- **Mark as done**
+- **Mark as undone**
+- **Show all tasks**
+
+# 📸 Sneak Peek
+
+![To-Do List Screenshot](./assets/images/toDoList.png)
+
 
 ____
 
@@ -117,7 +123,7 @@ ___
 
 ## 📟 Tech Stack & Libraries
 
-- Built on <b>JavaScript</b> with <b>node.js</b> as runtime environment
+- Built on **JavaScript** with **node.js** as runtime environment
 - [Commander.js](https://www.npmjs.com/package/commander) to build CLI Interface
 
 ___
