@@ -6,7 +6,7 @@
     },
     {
         "id": 2,
-        "task_description": "go to class",
+        "task_description": "cook food",
         "isDone": true
     },
     {
@@ -32,6 +32,11 @@
     {
         "id": 7,
         "task_description": "go to eat",
+        "isDone": false
+    },
+    {
+        "id": 8,
+        "task_description": "Buy groceries",
         "isDone": false
     }
 ]
